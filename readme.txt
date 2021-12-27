@@ -7,3 +7,5 @@ Creating a new branch is quick.
 my test2.
 Creating a new brance is quick & simple.
 Creating a new brance is quick AND simple.
+test rebase.
+by vin.
